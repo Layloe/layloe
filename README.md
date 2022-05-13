@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 <h1 align="center">Hi 👋, I'm Eduardo Sanchez</h1>
 <h3 align="center">A passionate frontend developer from Riverside, California and am a highly logical and flexible developer with a passion for determining efficient solutions to complex problems. Experienced with code design, development, and maintenance. Excels in managing multiple projects and tackling new tasks as priorities shift.</h3>
 

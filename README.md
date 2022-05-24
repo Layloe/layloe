@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Inventory app**
 
-- 👨‍💻 All of my projects are available at eduardosanchez.us
+- 👨‍💻 All of my projects are available at [eduardosanchez.us]
 
 - 📫 How to reach me **eduardosanchezfoto@gmail.com**
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Sanchez</h1>
 <h3 align="center">A passionate full-stack developer from Riverside, California and I am a highly logical and flexible developer with a passion for determining efficient solutions to complex problems. Experienced with code design, development, and maintenance. Excels in managing multiple projects and tackling new tasks as priorities shift.</h3>
 
-- 🔭 I’m currently working on **Inventory app**
+- 🔭 I’m currently working on *Hypertension/health tracker**
 
 - 👨‍💻 All of my projects are available at https://eduardosanchez.us/
 
